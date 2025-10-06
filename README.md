@@ -15,8 +15,8 @@
 14.  Command:
 15.  Interpreter:
 16.  Iterator:
-17.  Mediator :
-18.  Memento:
+17.  Mediator : giúp liên kết các đối tượng không trực tiếp mà qua gián tiếp nhờ một hoặc nhiều đối tượng Khác.
+18.  Memento: Giúp dễ dàng quay lại trạng thái được lưu tạm trước đó hoặc quay lui, có 2 trạng thái undo, redo.
 19.  Observer:
 20.  State:
 21.  Strategy:
