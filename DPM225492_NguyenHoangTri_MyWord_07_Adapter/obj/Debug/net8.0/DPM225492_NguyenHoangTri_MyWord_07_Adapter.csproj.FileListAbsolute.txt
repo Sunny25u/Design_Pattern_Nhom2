@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\ConsoleApp1\DPM225492_NguyenHoangTri_MyWord_07_Adapter\bin\Debug\net8.0\DPM225492_NguyenHoangTri_MyWord_07_Adapter.exe
+C:\Users\Admin\source\repos\ConsoleApp1\DPM225492_NguyenHoangTri_MyWord_07_Adapter\bin\Debug\net8.0\DPM225492_NguyenHoangTri_MyWord_07_Adapter.deps.json
+C:\Users\Admin\source\repos\ConsoleApp1\DPM225492_NguyenHoangTri_MyWord_07_Adapter\bin\Debug\net8.0\DPM225492_NguyenHoangTri_MyWord_07_Adapter.runtimeconfig.json
+C:\Users\Admin\source\repos\ConsoleApp1\DPM225492_NguyenHoangTri_MyWord_07_Adapter\bin\Debug\net8.0\DPM225492_NguyenHoangTri_MyWord_07_Adapter.dll
+C:\Users\Admin\source\repos\ConsoleApp1\DPM225492_NguyenHoangTri_MyWord_07_Adapter\bin\Debug\net8.0\DPM225492_NguyenHoangTri_MyWord_07_Adapter.pdb
+C:\Users\Admin\source\repos\ConsoleApp1\DPM225492_NguyenHoangTri_MyWord_07_Adapter\obj\Debug\net8.0\DPM225492_NguyenHoangTri_MyWord_07_Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ConsoleApp1\DPM225492_NguyenHoangTri_MyWord_07_Adapter\obj\Debug\net8.0\DPM225492_NguyenHoangTri_MyWord_07_Adapter.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ConsoleApp1\DPM225492_NguyenHoangTri_MyWord_07_Adapter\obj\Debug\net8.0\DPM225492_NguyenHoangTri_MyWord_07_Adapter.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ConsoleApp1\DPM225492_NguyenHoangTri_MyWord_07_Adapter\obj\Debug\net8.0\DPM225492_NguyenHoangTri_MyWord_07_Adapter.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConsoleApp1\DPM225492_NguyenHoangTri_MyWord_07_Adapter\obj\Debug\net8.0\DPM225492_NguyenHoangTri_MyWord_07_Adapter.dll
+C:\Users\Admin\source\repos\ConsoleApp1\DPM225492_NguyenHoangTri_MyWord_07_Adapter\obj\Debug\net8.0\refint\DPM225492_NguyenHoangTri_MyWord_07_Adapter.dll
+C:\Users\Admin\source\repos\ConsoleApp1\DPM225492_NguyenHoangTri_MyWord_07_Adapter\obj\Debug\net8.0\DPM225492_NguyenHoangTri_MyWord_07_Adapter.pdb
+C:\Users\Admin\source\repos\ConsoleApp1\DPM225492_NguyenHoangTri_MyWord_07_Adapter\obj\Debug\net8.0\DPM225492_NguyenHoangTri_MyWord_07_Adapter.genruntimeconfig.cache
+C:\Users\Admin\source\repos\ConsoleApp1\DPM225492_NguyenHoangTri_MyWord_07_Adapter\obj\Debug\net8.0\ref\DPM225492_NguyenHoangTri_MyWord_07_Adapter.dll
