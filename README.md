@@ -2,7 +2,7 @@
 
 2. Builder:
 3. Factory Method:
-4. Prototype:
+4. Prototype: Được xây dựng nhằm kiểm chứng tính khả thi của ý tưởng, minh họa giao diện và luồng chức năng cơ bản để khách hàng dễ hình dung, đồng thời thu thập phản hồi sớm từ người dùng. Việc phát triển prototype giúp phát hiện và xử lý rủi ro ngay từ đầu, tiết kiệm thời gian và chi phí, cũng như tạo cơ sở định hướng cho việc hoàn thiện sản phẩm chính thức trong các giai đoạn tiếp theo.
 5. Singleton
 6. Adapter:
 7. Bridge:
