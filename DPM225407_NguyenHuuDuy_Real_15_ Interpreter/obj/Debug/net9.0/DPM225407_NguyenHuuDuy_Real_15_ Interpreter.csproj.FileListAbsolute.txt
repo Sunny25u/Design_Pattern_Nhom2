@@ -1,0 +1,15 @@
+Z:\THb1\DPM225407_NguyenHuuDuy\DPM225407_NguyenHuuDuy_Real_15_ Interpreter\bin\Debug\net9.0\DPM225407_NguyenHuuDuy_Real_15_ Interpreter.exe
+Z:\THb1\DPM225407_NguyenHuuDuy\DPM225407_NguyenHuuDuy_Real_15_ Interpreter\bin\Debug\net9.0\DPM225407_NguyenHuuDuy_Real_15_ Interpreter.deps.json
+Z:\THb1\DPM225407_NguyenHuuDuy\DPM225407_NguyenHuuDuy_Real_15_ Interpreter\bin\Debug\net9.0\DPM225407_NguyenHuuDuy_Real_15_ Interpreter.runtimeconfig.json
+Z:\THb1\DPM225407_NguyenHuuDuy\DPM225407_NguyenHuuDuy_Real_15_ Interpreter\bin\Debug\net9.0\DPM225407_NguyenHuuDuy_Real_15_ Interpreter.dll
+Z:\THb1\DPM225407_NguyenHuuDuy\DPM225407_NguyenHuuDuy_Real_15_ Interpreter\bin\Debug\net9.0\DPM225407_NguyenHuuDuy_Real_15_ Interpreter.pdb
+Z:\THb1\DPM225407_NguyenHuuDuy\DPM225407_NguyenHuuDuy_Real_15_ Interpreter\obj\Debug\net9.0\DPM225407_NguyenHuuDuy_Real_15_ Interpreter.GeneratedMSBuildEditorConfig.editorconfig
+Z:\THb1\DPM225407_NguyenHuuDuy\DPM225407_NguyenHuuDuy_Real_15_ Interpreter\obj\Debug\net9.0\DPM225407_NguyenHuuDuy_Real_15_ Interpreter.AssemblyInfoInputs.cache
+Z:\THb1\DPM225407_NguyenHuuDuy\DPM225407_NguyenHuuDuy_Real_15_ Interpreter\obj\Debug\net9.0\DPM225407_NguyenHuuDuy_Real_15_ Interpreter.AssemblyInfo.cs
+Z:\THb1\DPM225407_NguyenHuuDuy\DPM225407_NguyenHuuDuy_Real_15_ Interpreter\obj\Debug\net9.0\DPM225407_NguyenHuuDuy_Real_15_ Interpreter.csproj.CoreCompileInputs.cache
+Z:\THb1\DPM225407_NguyenHuuDuy\DPM225407_NguyenHuuDuy_Real_15_ Interpreter\obj\Debug\net9.0\DPM225407_NguyenHuuDuy_Real_15_ Interpreter.sourcelink.json
+Z:\THb1\DPM225407_NguyenHuuDuy\DPM225407_NguyenHuuDuy_Real_15_ Interpreter\obj\Debug\net9.0\DPM225407_NguyenHuuDuy_Real_15_ Interpreter.dll
+Z:\THb1\DPM225407_NguyenHuuDuy\DPM225407_NguyenHuuDuy_Real_15_ Interpreter\obj\Debug\net9.0\refint\DPM225407_NguyenHuuDuy_Real_15_ Interpreter.dll
+Z:\THb1\DPM225407_NguyenHuuDuy\DPM225407_NguyenHuuDuy_Real_15_ Interpreter\obj\Debug\net9.0\DPM225407_NguyenHuuDuy_Real_15_ Interpreter.pdb
+Z:\THb1\DPM225407_NguyenHuuDuy\DPM225407_NguyenHuuDuy_Real_15_ Interpreter\obj\Debug\net9.0\DPM225407_NguyenHuuDuy_Real_15_ Interpreter.genruntimeconfig.cache
+Z:\THb1\DPM225407_NguyenHuuDuy\DPM225407_NguyenHuuDuy_Real_15_ Interpreter\obj\Debug\net9.0\ref\DPM225407_NguyenHuuDuy_Real_15_ Interpreter.dll
