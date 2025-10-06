@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DPM225469_NguyenHuuTai_MyWord_09_Decorator _Menu_sugas/1.0.0": {
+        "runtime": {
+          "DPM225469_NguyenHuuTai_MyWord_09_Decorator _Menu_sugas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DPM225469_NguyenHuuTai_MyWord_09_Decorator _Menu_sugas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
