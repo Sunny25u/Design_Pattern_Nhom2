@@ -1,0 +1,14 @@
+Z:\New folder\DPM225469_NguyenHuuTai_Parttern_12_Proxy_Pattern-main\bin\Debug\net8.0\namespace DPM225469_NguyenHuuTai_Nhanvat_12_Proxy.exe
+Z:\New folder\DPM225469_NguyenHuuTai_Parttern_12_Proxy_Pattern-main\bin\Debug\net8.0\namespace DPM225469_NguyenHuuTai_Nhanvat_12_Proxy.deps.json
+Z:\New folder\DPM225469_NguyenHuuTai_Parttern_12_Proxy_Pattern-main\bin\Debug\net8.0\namespace DPM225469_NguyenHuuTai_Nhanvat_12_Proxy.runtimeconfig.json
+Z:\New folder\DPM225469_NguyenHuuTai_Parttern_12_Proxy_Pattern-main\bin\Debug\net8.0\namespace DPM225469_NguyenHuuTai_Nhanvat_12_Proxy.dll
+Z:\New folder\DPM225469_NguyenHuuTai_Parttern_12_Proxy_Pattern-main\bin\Debug\net8.0\namespace DPM225469_NguyenHuuTai_Nhanvat_12_Proxy.pdb
+Z:\New folder\DPM225469_NguyenHuuTai_Parttern_12_Proxy_Pattern-main\obj\Debug\net8.0\namespace DPM225469_NguyenHuuTai_Nhanvat_12_Proxy.GeneratedMSBuildEditorConfig.editorconfig
+Z:\New folder\DPM225469_NguyenHuuTai_Parttern_12_Proxy_Pattern-main\obj\Debug\net8.0\namespace DPM225469_NguyenHuuTai_Nhanvat_12_Proxy.AssemblyInfoInputs.cache
+Z:\New folder\DPM225469_NguyenHuuTai_Parttern_12_Proxy_Pattern-main\obj\Debug\net8.0\namespace DPM225469_NguyenHuuTai_Nhanvat_12_Proxy.AssemblyInfo.cs
+Z:\New folder\DPM225469_NguyenHuuTai_Parttern_12_Proxy_Pattern-main\obj\Debug\net8.0\namespace DPM225469_NguyenHuuTai_Nhanvat_12_Proxy.csproj.CoreCompileInputs.cache
+Z:\New folder\DPM225469_NguyenHuuTai_Parttern_12_Proxy_Pattern-main\obj\Debug\net8.0\namespace DPM225469_NguyenHuuTai_Nhanvat_12_Proxy.dll
+Z:\New folder\DPM225469_NguyenHuuTai_Parttern_12_Proxy_Pattern-main\obj\Debug\net8.0\refint\namespace DPM225469_NguyenHuuTai_Nhanvat_12_Proxy.dll
+Z:\New folder\DPM225469_NguyenHuuTai_Parttern_12_Proxy_Pattern-main\obj\Debug\net8.0\namespace DPM225469_NguyenHuuTai_Nhanvat_12_Proxy.pdb
+Z:\New folder\DPM225469_NguyenHuuTai_Parttern_12_Proxy_Pattern-main\obj\Debug\net8.0\namespace DPM225469_NguyenHuuTai_Nhanvat_12_Proxy.genruntimeconfig.cache
+Z:\New folder\DPM225469_NguyenHuuTai_Parttern_12_Proxy_Pattern-main\obj\Debug\net8.0\ref\namespace DPM225469_NguyenHuuTai_Nhanvat_12_Proxy.dll

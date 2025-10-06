@@ -1,0 +1,13 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = namespace_DPM225469_NguyenHuuTai_Nhanvat_12_Proxy
+build_property.ProjectDir = Z:\New folder\BTTH_ThietPhatTrienBaoTriPhanMem\DPM225469_NguyenHuuTai_Parttern_12_Proxy_Pattern-main\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
