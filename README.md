@@ -4,7 +4,7 @@
 3. Factory Method:
 4. Prototype: Được xây dựng nhằm kiểm chứng tính khả thi của ý tưởng, minh họa giao diện và luồng chức năng cơ bản để khách hàng dễ hình dung, đồng thời thu thập phản hồi sớm từ người dùng. Việc phát triển prototype giúp phát hiện và xử lý rủi ro ngay từ đầu, tiết kiệm thời gian và chi phí, cũng như tạo cơ sở định hướng cho việc hoàn thiện sản phẩm chính thức trong các giai đoạn tiếp theo.
 5. Singleton
-6. Adapter:
+6. Adapter: Được sử dụng nhằm kết nối các thành phần phần mềm có giao diện không tương thích, giúp chúng có thể làm việc với nhau một cách linh hoạt. Việc áp dụng Adapter giúp tái sử dụng các thành phần sẵn có mà không cần sửa đổi mã nguồn, tăng khả năng mở rộng hệ thống, giảm sự phụ thuộc lẫn nhau và đảm bảo tính linh hoạt trong phát triển cũng như bảo trì phần mềm.
 7. Bridge:
 8. Composite:
 9. Decorator:
