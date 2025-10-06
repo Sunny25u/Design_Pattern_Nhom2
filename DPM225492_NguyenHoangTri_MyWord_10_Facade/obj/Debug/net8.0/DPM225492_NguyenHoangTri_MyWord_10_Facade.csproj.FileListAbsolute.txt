@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\ConsoleApp1\DPM225492_NguyenHoangTri_MyWord_10_Facade\bin\Debug\net8.0\DPM225492_NguyenHoangTri_MyWord_10_Facade.exe
+C:\Users\Admin\source\repos\ConsoleApp1\DPM225492_NguyenHoangTri_MyWord_10_Facade\bin\Debug\net8.0\DPM225492_NguyenHoangTri_MyWord_10_Facade.deps.json
+C:\Users\Admin\source\repos\ConsoleApp1\DPM225492_NguyenHoangTri_MyWord_10_Facade\bin\Debug\net8.0\DPM225492_NguyenHoangTri_MyWord_10_Facade.runtimeconfig.json
+C:\Users\Admin\source\repos\ConsoleApp1\DPM225492_NguyenHoangTri_MyWord_10_Facade\bin\Debug\net8.0\DPM225492_NguyenHoangTri_MyWord_10_Facade.dll
+C:\Users\Admin\source\repos\ConsoleApp1\DPM225492_NguyenHoangTri_MyWord_10_Facade\bin\Debug\net8.0\DPM225492_NguyenHoangTri_MyWord_10_Facade.pdb
+C:\Users\Admin\source\repos\ConsoleApp1\DPM225492_NguyenHoangTri_MyWord_10_Facade\obj\Debug\net8.0\DPM225492_NguyenHoangTri_MyWord_10_Facade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ConsoleApp1\DPM225492_NguyenHoangTri_MyWord_10_Facade\obj\Debug\net8.0\DPM225492_NguyenHoangTri_MyWord_10_Facade.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ConsoleApp1\DPM225492_NguyenHoangTri_MyWord_10_Facade\obj\Debug\net8.0\DPM225492_NguyenHoangTri_MyWord_10_Facade.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ConsoleApp1\DPM225492_NguyenHoangTri_MyWord_10_Facade\obj\Debug\net8.0\DPM225492_NguyenHoangTri_MyWord_10_Facade.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConsoleApp1\DPM225492_NguyenHoangTri_MyWord_10_Facade\obj\Debug\net8.0\DPM225492_NguyenHoangTri_MyWord_10_Facade.dll
+C:\Users\Admin\source\repos\ConsoleApp1\DPM225492_NguyenHoangTri_MyWord_10_Facade\obj\Debug\net8.0\refint\DPM225492_NguyenHoangTri_MyWord_10_Facade.dll
+C:\Users\Admin\source\repos\ConsoleApp1\DPM225492_NguyenHoangTri_MyWord_10_Facade\obj\Debug\net8.0\DPM225492_NguyenHoangTri_MyWord_10_Facade.pdb
+C:\Users\Admin\source\repos\ConsoleApp1\DPM225492_NguyenHoangTri_MyWord_10_Facade\obj\Debug\net8.0\DPM225492_NguyenHoangTri_MyWord_10_Facade.genruntimeconfig.cache
+C:\Users\Admin\source\repos\ConsoleApp1\DPM225492_NguyenHoangTri_MyWord_10_Facade\obj\Debug\net8.0\ref\DPM225492_NguyenHoangTri_MyWord_10_Facade.dll
