@@ -8,7 +8,7 @@
 7. Bridge:
 8. Composite:
 9. Decorator:
-10. Facade:
+10. Facade: Giao diện đơn giản nhưng phía sau đó là một hệ thống xử lý phức tạp, giúp dùng dễ dàng sử dụng.
 11. Flyweight:Với việc lưu các thông tin giống nhau của những nhân vật giảm thiểu được bộ nhớ sử dụng. Tuy nhiên sẽ tiêu hao CPU vì phải liên tục gọi nhiều lần. CHỉ nên sử dụng khi có quá nhiều đơn vị được gọi và không gian lưu trữ thấp.
 12. Proxy: Với việc hạn chế tương tác với các đối tượng thật sẽ giảm thiểu tình trạng load chậm của chương trình. chỉ nên áp dụng với các đối tượng nặng gây load chậm.
 13.  Chain of Responsibility: Cho phép truyền yêu cầu qua chuỗi các đối tượng cho đến khi một đối tượng xử lý được nó. Giúp tách biệt người gửi và người nhận, giảm if-else phức tạp.
